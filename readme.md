@@ -26,7 +26,7 @@
 ### 项目安装
 1). 克隆本项目源代码到本地：
 
-     git clone git@github.com:AD-er/mallWeb-bootstrap.git
+     git clone https://github.com/AD-er/mallWeb-bootstrap.git
 
 2). 切换至项目目录
 
