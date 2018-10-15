@@ -55,4 +55,4 @@
 ![预览图](https://github.com/AD-er/mallWeb-bootstrap/blob/master/preview/2018-10-14_00.02.21.png?raw=true)
 
 ### 最后
-本项目[作者](https://github.com/AD-er)本人利用业余时间，断断续续写的。结合已掌握和新知识，参考部份开源项目。部份功能尚未完善，做得不好，当做参考。欢迎指正~
+本项目[作者](https://github.com/AD-er)本人利用业余时间，断断续续设计编码。结合已掌握和新知识，参考部份开源项目。部份功能尚未完善，做得不好，当做参考。欢迎指正~
