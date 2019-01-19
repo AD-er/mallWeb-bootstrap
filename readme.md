@@ -1,4 +1,4 @@
-## 项目简介[[在线预览](http://v1.dajing.ren)]
+## 项目简介
 一个基于Laravel + Bootstrap商城前后端Demo。前端使用响应式布局，CDN资源加速，图片懒加载等主流技术，测试数据利用爬虫获取。考虑到系统安全，暂不公开后端源码。并为以下项目提供API接口：
 > * 基于Laravel + Wepy微信小程序商城Demo[[GitHub源码](https://github.com/AD-er/mallWechat-wepy)]
 > * 基于Laravel + React前后端完全分离的商城后台Demo[[GitHub源码](https://github.com/AD-er/mallAdmin-react)]
